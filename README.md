@@ -4,7 +4,7 @@
 # Most. Jannatul Firdousi Zoti
 
 
-:wave: Hi there! I’m Most. Jannatul Firdousi Zoti. I am a third-year Computer Science and Engineering student at Daffodil International University. My research and project interests include Machine learning, Deep learning, NLP, and Computer Vision. Currently, I am focusing on medical imaging and healthcare-related AI research.
+:wave: Hi there! I’m Most. Jannatul Firdousi Zoti. I am a final-year Computer Science and Engineering student at Daffodil International University. My research and project interests include Machine learning, Deep learning, NLP, and Computer Vision. Currently, I am focusing on medical imaging and healthcare-related AI research.
 
 - [Most. Jannatul Firdousi Zoti Research Gate](https://www.researchgate.net/profile/Jannatul-Zoti?ev=hdr_xprf)
 
@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sidratul343" alt="sidratul343" /> </p>
 
 ### Available On-
-<a href="https://www.facebook.com/montaha.tuba.73/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+<a href="https://www.facebook.com/jannatul.firdousi.212609"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/sidratul-montaha-950a451b9/?originalSubdomain=ca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.instagram.com/montaha_tuba/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 <a href="https://sidratul343.github.io/Website/"><img src="https://img.shields.io/badge/WebSite-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
