@@ -17,7 +17,7 @@ Let’s connect and collaborate on innovative AI solutions!
 ```json
 {
   "Languages": ["Python", "C", "C++", "Java", "SQL"],
-  "Web & Frontend": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+  "Web & Frontend": ["HTML", "CSS", "JavaScript"],
   "Data Science & ML": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "NLTK", "OpenCV"],
   "Deep Learning": ["TensorFlow", "Keras", "PyTorch", "CNN", "LSTM", "Bi-LSTM", "BanglaBert"],
   "Database": ["MySQL"],
