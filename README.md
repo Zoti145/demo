@@ -18,9 +18,9 @@ Let’s connect and collaborate on innovative AI solutions!
 {
   "Languages": ["Python", "C", "C++", "Java", "SQL"],
   "Web & Frontend": ["HTML", "CSS", "JavaScript", "Bootstrap"],
-  "Data Science & ML": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "NLTK", "OpenCV", "BeautifulSoup", "Selenium"],
-  "Deep Learning": ["TensorFlow", "Keras", "PyTorch", "CNN", "LSTM", "Bi-LSTM", "Transfer Learning"],
-  "Database": ["MySQL", "SQLite"],
+  "Data Science & ML": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "NLTK", "OpenCV"],
+  "Deep Learning": ["TensorFlow", "Keras", "PyTorch", "CNN", "LSTM", "Bi-LSTM", "BanglaBert"],
+  "Database": ["MySQL"],
   "Cloud & Tools": ["Google Colab", "Anaconda", "VS Code", "Jupyter Notebook"]
 }
 
